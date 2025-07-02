@@ -1,0 +1,12 @@
+ #Environment variables (if you move your MySQL credentials here)
+.env
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Streamlit specific files
+.streamlit/
+
+# Database files you might have locally but don't want on Git
+*.db
